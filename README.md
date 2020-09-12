@@ -18,7 +18,7 @@ The best way I have found to isolate what domains to use in the rule is to have 
 ## Instagram
 |Type||Value|
 |--|--|--|
-|SNI Hostname|is|`*.cdninstagram.com,i.instagram.com`|
+|SNI Hostname|is|`*.cdninstagram.com,i.instagram.com,graph.instagram.com`|
 
 ## Nest
 |Type||Value|
