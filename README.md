@@ -27,7 +27,7 @@ The best way I have found to isolate what domains to use in the rule is to have 
 |--|--|--|
 |SNI Hostname|is|`*.nest.com`|
 
-## OwletCam
+## Owlet Cam
 |Type||Value|
 |--|--|--|
 |SNI Hostname|is|`*.firebaseio.com`|
