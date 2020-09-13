@@ -8,7 +8,7 @@ The best way I have found to isolate what domains to use in the rule is to have 
 ## Facebook & Messenger App
 |Type||Value|
 |--|--|--|
-|SNI Hostname|is|`*.fbcdn.net,edge-mqtt.facebook.com,rupload.facebook.com,graph.facebook.com,lookaside.facebook.com,m.facebook.com`|
+|SNI Hostname|is|`*.fbcdn.net,edge-mqtt.facebook.com,rupload.facebook.com,graph.facebook.com,lookaside.facebook.com,m.facebook.com,api.facebook.com`|
 |Certificate Subject|is|`*Facebook*`
 
 ## Google Chrome OS / Devices
