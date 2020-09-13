@@ -3,6 +3,8 @@ Be sure to place these rules high on the list in order for them to work properly
 
 The best way I have found to isolate what domains to use in the rule is to have two tabs opened, one on `Reports -> Web Filter -> All Web Events` and the other on `Reports -> SSL Inspector -> All Sessions` and to add the hostname of the device in question to the filter. Then close and open the app/service/website in question and refresh those tabs to see what domains are getting requested. Then build your rule out from there, adding and removing to determine the bare minimum until the service starts to work.
 
+* Some of these rules are needed even if you aren't inspecting all traffic. I needed these with just the default rules enabled.
+
 ## Facebook & Messenger App
 |Type||Value|
 |--|--|--|
